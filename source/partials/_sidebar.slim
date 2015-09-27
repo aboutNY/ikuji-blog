@@ -2,7 +2,7 @@
   .well
     h4 プロフィール
     img src="/images/user.jpg"
-    p Yosuke Nagaishi (28歳)
+    p about NY (28歳)
     p 東京都品川区在住の社内システムエンジニア
     p 2015年5月にパパになり、10月から半年間の育児休業を取得
   .well
@@ -15,7 +15,7 @@
           = articles.size
           | )
   .well
-    h4 年別
+    h4 アーカイブ
     ol
     - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
         li

@@ -104,9 +104,9 @@ activate :livereload
 ###
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
 set :site_url, 'http://blog.url.com'
-set :site_author, 'Yosuke Nagaishi'
-set :site_title, 'Yosuke Nagaishiの育児ブログ@育休中'
-set :site_description, '半年間の育児休業を取得したパパのブログ'
+set :site_author, 'about NY'
+set :site_title, '社内システムエンジニアの育児ブログ@育休中'
+set :site_description, '東京都品川区在住の社内システムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。'
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.
 set :theme_name, 'flatly'
