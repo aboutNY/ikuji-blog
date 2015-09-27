@@ -103,7 +103,7 @@ activate :livereload
 # Site Settings
 ###
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
-set :site_url, 'http://blog.url.com'
+set :site_url, 'https://aboutny.github.io/ikuji-blog/'
 set :site_author, 'about NY'
 set :site_title, '社内システムエンジニアの育児ブログ@育休中'
 set :site_description, '東京都品川区在住の社内システムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。'
@@ -162,6 +162,9 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
+
+  # imgage pass
+  set :images_dir, 'https://github.com/aboutNY/ikuji-blog/tree/gh-pages/images'
 end
 
 ###
@@ -169,10 +172,11 @@ end
 ###
 
 # ftp deployment configuration.
-# activate :deploy do |deploy|
-#   deploy.method = :ftp
+activate :deploy do |deploy|
+   deploy.method = :git
+   deploy.branch = 'gh-pages'
 #   deploy.host = "ftp-host"
 #   deploy.user = "ftp-user"
 #   deploy.password = "ftp-password"
 #   deploy.path = "ftp-path"
-# end
+ end
