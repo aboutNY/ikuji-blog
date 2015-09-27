@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://blog.url.com/</loc>
+    <loc>https://aboutny.github.io/ikuji-blog//</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://blog.url.com/2015/09/27/test.html</loc>
+    <loc>https://aboutny.github.io/ikuji-blog//2015/09/27/test.html</loc>
     <lastmod>2015-09-27</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://blog.url.com/tags/育児.html</loc>
+    <loc>https://aboutny.github.io/ikuji-blog//tags/育児.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://blog.url.com/2015.html</loc>
+    <loc>https://aboutny.github.io/ikuji-blog//2015.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://blog.url.com/2015/09.html</loc>
+    <loc>https://aboutny.github.io/ikuji-blog//2015/09.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://blog.url.com/2015/09/27.html</loc>
+    <loc>https://aboutny.github.io/ikuji-blog//2015/09/27.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
