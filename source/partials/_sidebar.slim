@@ -1,0 +1,25 @@
+.col-lg-3.col-md-3
+  .well
+    h4 プロフィール
+    img src="/images/user.jpg"
+    p Yosuke Nagaishi (28歳)
+    p 東京都品川区在住の社内システムエンジニア
+    p 2015年5月にパパになり、10月から半年間の育児休業を取得
+  .well
+    h4 タグ
+    ul.list-unstyled
+      - blog.tags.each do |tag, articles|
+        li
+          = link_to tag, tag_path(tag)
+          |  (
+          = articles.size
+          | )
+  .well
+    h4 年別
+    ol
+    - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+        li
+          = link_to year, blog_year_path(year)
+          |  (
+          = articles.size
+          | )
