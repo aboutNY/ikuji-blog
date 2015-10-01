@@ -112,7 +112,8 @@ set :site_description, '東京都品川区在住の社内システムエンジ�
 set :theme_name, 'flatly'
 # set :theme_name, false
 # set @analytics_account, like "XX-12345678-9"
-@analytics_account = false
+# @analytics_account = false
+@analytics_account = "UA-68310299-1"
 
 # Asset Settings
 set :css_dir, 'css'
