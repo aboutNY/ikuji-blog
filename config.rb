@@ -185,7 +185,7 @@ activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = 'gh-pages'
 #   deploy.host = "ftp-host"
-#   deploy.user = "ftp-user"
+#   deploy.user = "aboutNY"
 #   deploy.password = "ftp-password"
 #   deploy.path = "ftp-path"
  end
