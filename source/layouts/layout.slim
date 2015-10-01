@@ -15,7 +15,6 @@ html
     = partial "partials/header"
     .container
       .row
-        = partial "partials/sidebar"
         div.col-lg-9.col-md-9
           - unless current_article.nil?
             h1
@@ -42,10 +41,6 @@ html
                   = link_to article.title, article
                   span<>
                     = article.date.strftime('%b %e')
-          hr
-            p.text-center
-              | 2015 
-              = link_to "#{site_title}", "/"  
-/    .container
-/      = partial "partials/footer"
+        = partial "partials/sidebar"
+    = partial "partials/footer"
     = javascript_include_tag  "all"
