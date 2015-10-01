@@ -2,19 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>社内システムエンジニアの育児ブログ@育休中</title>
   <subtitle>東京都品川区在住の社内システムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。</subtitle>
-  <id>https://aboutny.github.io/ikuji-blog/</id>
-  <link href="https://aboutny.github.io/ikuji-blog/"/>
-  <link href="https://aboutny.github.io/ikuji-blog/feed.xml" rel="self"/>
+  <id>http://ikuji-aboutny.com</id>
+  <link href="http://ikuji-aboutny.com"/>
+  <link href="http://ikuji-aboutny.com/feed.xml" rel="self"/>
   <updated>2015-09-26T15:00:00Z</updated>
   <author>
     <name>about NY</name>
   </author>
   <entry>
     <title>初めの投稿</title>
-    <link rel="alternate" href="https://aboutny.github.io/2015/09/27/test.html"/>
-    <id>https://aboutny.github.io/2015/09/27/test.html</id>
+    <link rel="alternate" href="http://ikuji-aboutny.com/2015/09/27/test.html"/>
+    <id>http://ikuji-aboutny.com/2015/09/27/test.html</id>
     <published>2015-09-26T15:00:00Z</published>
-    <updated>2015-10-01T15:36:17+09:00</updated>
+    <updated>2015-10-01T19:44:14+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
