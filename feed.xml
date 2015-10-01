@@ -5,49 +5,24 @@
   <id>http://ikuji-aboutny.com</id>
   <link href="http://ikuji-aboutny.com"/>
   <link href="http://ikuji-aboutny.com/feed.xml" rel="self"/>
-  <updated>2015-09-30T15:00:00Z</updated>
+  <updated>2015-09-26T15:00:00Z</updated>
   <author>
     <name>about NY</name>
   </author>
   <entry>
-    <title>育休ブログ開設</title>
-    <link rel="alternate" href="http://ikuji-aboutny.com/2015/10/01/post.html"/>
-    <id>http://ikuji-aboutny.com/2015/10/01/post.html</id>
-    <published>2015-09-30T15:00:00Z</published>
-    <updated>2015-10-01T23:39:19+09:00</updated>
+    <title>初めの投稿</title>
+    <link rel="alternate" href="http://ikuji-aboutny.com/2015/09/27/test.html"/>
+    <id>http://ikuji-aboutny.com/2015/09/27/test.html</id>
+    <published>2015-09-26T15:00:00Z</published>
+    <updated>2015-10-01T23:52:58+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;h1 id="2015年10月1日より半年間の育休を取得します"&gt;2015年10月1日より半年間の育休を取得します&lt;/h1&gt;
+    <content type="html">&lt;h1 id="はじめ"&gt;はじめ&lt;/h1&gt;
 
-&lt;h2 id="男性の育休取得者が少ない"&gt;男性の育休取得者が少ない&lt;/h2&gt;
+&lt;h2 id="このブログについて"&gt;このブログについて&lt;/h2&gt;
 
-&lt;p&gt;男性の育休取得率は増加傾向にあるものの、2015年で2%程度と言われており、
-この中でも私のような半年間という長期取得者は、更に希少な存在だと考えられます。&lt;/p&gt;
-
-&lt;p&gt;一方自分が育休を取得する際に一番不安だったのは、
-男性の育休取得者が周りにいないことです。&lt;/p&gt;
-
-&lt;h2 id="前例がいないことへの漠然とした不安"&gt;前例がいないことへの漠然とした不安&lt;/h2&gt;
-
-&lt;p&gt;私が勤務している会社は、２年前に分社でできた会社のですが、
-分社後男性の育休取得者は0人で、私が初の男性育休取得者です。
-育休に興味はあったのですが、前例が無いことに対する漠然とした不安は
-無視できるものではなかったです。&lt;/p&gt;
-
-&lt;p&gt;幸いグループ会社の育休取得者とお話させていただく機会に恵まれたおかげで、
-育休取得の背中を押してもらえましたが、
-こういった&amp;quot;体験者の声&amp;quot;がいかに価値があるのか身をもって体験しました。&lt;/p&gt;
-
-&lt;h2 id="情報の不を改善したい！"&gt;情報の不を改善したい！&lt;/h2&gt;
-
-&lt;p&gt;こういった情報の不を少しでも改善するために、本ブログを開設しました。
-(我が子の写真を世に発信したいという、親バカ心も少しございます^^)&lt;/p&gt;
-
-&lt;p&gt;具体的なトピックスは定めていませんが、自分が育休取得前から知っておきたかったことや、
-知っていて役に立ったことを、更新していければと、思っています。&lt;/p&gt;
-
-&lt;p&gt;今後ともよろしくお願いします！&lt;/p&gt;
+&lt;p&gt;テスト&lt;/p&gt;
 </content>
   </entry>
 </feed>
