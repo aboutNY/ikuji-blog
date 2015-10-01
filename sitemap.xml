@@ -7,13 +7,19 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://ikuji-aboutny.com/2015/09/27/test.html</loc>
-    <lastmod>2015-10-01</lastmod>
+    <loc>http://ikuji-aboutny.com/2015/10/01/post.html</loc>
+    <lastmod>2015-10-02</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://ikuji-aboutny.com/tags/育児.html</loc>
+    <loc>http://ikuji-aboutny.com/tags/ブログ.html</loc>
+    <lastmod>2015-09-26</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://ikuji-aboutny.com/tags/育休.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -25,13 +31,13 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://ikuji-aboutny.com/2015/09.html</loc>
+    <loc>http://ikuji-aboutny.com/2015/10.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>http://ikuji-aboutny.com/2015/09/27.html</loc>
+    <loc>http://ikuji-aboutny.com/2015/10/01.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
