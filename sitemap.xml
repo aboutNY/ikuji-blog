@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://ikuji-aboutny.com/</loc>
-    <lastmod>2015-09-26</lastmod>
+    <lastmod>2015-10-02</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>http://ikuji-aboutny.com/2015/10/01/post.html</loc>
     <lastmod>2015-10-02</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://ikuji-aboutny.com/2015/10/02/post.html</loc>
+    <lastmod>2015-10-03</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -25,6 +31,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://ikuji-aboutny.com/tags/仕事.html</loc>
+    <lastmod>2015-09-26</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://ikuji-aboutny.com/2015.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>1.0</priority>
@@ -34,6 +46,12 @@
     <loc>http://ikuji-aboutny.com/2015/10.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://ikuji-aboutny.com/2015/10/02.html</loc>
+    <lastmod>2015-09-26</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
