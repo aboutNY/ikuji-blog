@@ -24,3 +24,6 @@ gem "nokogiri", "~> 1.6.1"
 
 # For feed.xml.builder/sitemap.xml.builder
 gem "builder", "~> 3.0"
+
+# html→slim変換ツール
+gem "html2slim", "~> 0.2.0"

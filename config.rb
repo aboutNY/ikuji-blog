@@ -12,7 +12,7 @@ activate :blog do |blog|
   # Matcher for blog source files
   blog.sources = "posts/{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
-  # blog.layout = "layout"
+  # blog.layout = "blog_post"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"
@@ -107,6 +107,7 @@ set :site_url, 'http://ikuji-aboutny.com'
 set :site_author, 'about NY'
 set :site_title, '社内システムエンジニアの育児ブログ@育休中'
 set :site_description, '東京都品川区在住の社内システムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。'
+set :profile_img_url, '/images/user.jpg'
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.
 set :theme_name, 'flatly'
