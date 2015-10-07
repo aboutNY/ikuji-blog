@@ -1,28 +1,46 @@
-.col-lg-3.col-md-3
-  .well
-    h4 プロフィール
-    img[src="#{profile_img_url}"]
-    p about NY (28歳)
-    p 東京都品川区在住の社内システムエンジニア
-    p 2015年5月にパパになり、10月から半年間の育児休業を取得
-  .well
-    h4 タグ
-    ul.list-unstyled
-      - blog.tags.each do |tag, articles|
-        li
-          = link_to tag, tag_path(tag)
-          |  (
-          = articles.size
-          | )
-  .well
-    h4 アーカイブ
-    ol
-    - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
-        li
-          = link_to year, blog_year_path(year)
-          |  (
-          = articles.size
-          | )
-  .well
-    h4 シェア
-    = partial "partials/social"
+.row
+  .col-lg-3.col-md-3.col-sm-3.col-xs-12
+    .well
+      h4 プロフィール
+      img[src="#{profile_img_url}"]
+      p about NY (28歳)
+      p 東京都品川区在住の社内システムエンジニア
+      p 2015年5月にパパになり、10月から半年間の育児休業を取得
+  .col-lg-3.col-md-3.col-sm-3.col-xs-4
+    .well
+      h4 タグ
+      ul.list-unstyled
+        - blog.tags.each do |tag, articles|
+          li
+            = link_to tag, tag_path(tag)
+            |  (
+            = articles.size
+            | )
+  .col-lg-3.col-md-3.col-sm-3.col-xs-4
+    .well
+      h4 アーカイブ
+      ol
+      - blog.articles.group_by {|a| a.date.year }.each do |year, articles|
+          li
+            = link_to year, blog_year_path(year)
+            |  (
+            = articles.size
+            | )
+  .col-lg-3.col-md-3.col-sm-3.col-xs-4
+    .well
+      h4 シェア
+      = partial "partials/social"
+  .col-lg-3.col-md-3.col-sm-3.col-xs-4
+    .well
+      h4 サイト内検索
+      form#searchbox_demo[name="cse" action="https://www.google.com/cse"]
+        input[type="hidden" name="cref" value="001388315731759333935:covi39zglke"]
+        input[type="hidden" name="ie" value="utf-8"]
+        input[type="hidden" name="hl" value="ja"]
+        input[name="q" type="text" size="15"]
+        input[type="submit" name="sa" value="検索"]
+      img[src="http://www.google.com/cse/images/google_custom_search_smwide.gif"]
+      
+
+
+    
