@@ -15,6 +15,7 @@ gem "middleman-livereload", "~> 3.1.0"
 
 # For Slim
 gem "slim", "~> 2.0.2"
+# gem "slim", "~> 3.0.3"
 
 # For Markdown
 gem "redcarpet", "~> 3.1.1"
@@ -27,3 +28,6 @@ gem "builder", "~> 3.0"
 
 # html→slim変換ツール
 gem "html2slim", "~> 0.2.0"
+
+# disqus追加
+#   gem 'middleman-disqus'

@@ -168,13 +168,6 @@ configure :build do
   # imgage pass
   # set :images_dir, 'https://github.com/aboutNY/ikuji-blog/tree/gh-pages/images'
 
-  # リポジトリ名を host に設定しておく
-  # こうすることで stylesheet_link_tag などで展開されるパスが
-  # /test-middleman/stylesheets/normalize.css
-  # のようになる
-  # activate :asset_host, :host => "/ikuji-blog"
-  # activate :asset_hash
-  # set :relative_links, true
 end
 
 ###
