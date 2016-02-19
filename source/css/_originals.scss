@@ -4,6 +4,21 @@
 	height: 100px;
 }
 
+h1{
+    margin: 0 0 10px;
+    padding: 0.8em;
+    font-weight: bold;
+    border-top: 1px dashed #aaa;
+    border-bottom: 1px dashed #aaa;
+    background: #eee;
+    text-shadow: 1px 1px 0 rgba(255,255,255,1);
+    box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+    -moz-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+    -webkit-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+    -o-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+    -ms-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
+}
+
 h2 {
  position: relative;
  line-height: 1;
