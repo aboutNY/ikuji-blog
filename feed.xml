@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>20代で半年育休を取得した社内SEブログ</title>
-  <subtitle>東京都品川区在住の社内システムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。</subtitle>
+  <title>28歳男子育休の半年間</title>
+  <subtitle>東京都品川区在住のシステムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。</subtitle>
   <id>http://ikuji-aboutny.com</id>
   <link href="http://ikuji-aboutny.com"/>
   <link href="http://ikuji-aboutny.com/feed.xml" rel="self"/>
   <updated>2016-02-29T15:00:00Z</updated>
   <author>
-    <name>about NY</name>
+    <name>aboutny</name>
   </author>
   <entry>
     <title>3人で迎える初めての結婚記念日</title>
