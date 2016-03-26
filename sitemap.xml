@@ -103,20 +103,32 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://ikuji-aboutny.com/2016/02/08/post.html</loc>
+    <lastmod>2016-03-26</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://ikuji-aboutny.com/2016/02/15/post.html</loc>
-    <lastmod>2016-02-19</lastmod>
+    <lastmod>2016-03-27</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>http://ikuji-aboutny.com/2016/02/22/post.html</loc>
-    <lastmod>2016-03-10</lastmod>
+    <lastmod>2016-03-26</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
     <loc>http://ikuji-aboutny.com/2016/03/01/post.html</loc>
     <lastmod>2016-03-24</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://ikuji-aboutny.com/2016/03/08/post.html</loc>
+    <lastmod>2016-03-26</lastmod>
     <priority>0.7</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -199,6 +211,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://ikuji-aboutny.com/2016/03/08.html</loc>
+    <lastmod>2015-09-26</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://ikuji-aboutny.com/2016/03/01.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.8</priority>
@@ -218,6 +236,12 @@
   </url>
   <url>
     <loc>http://ikuji-aboutny.com/2016/02/15.html</loc>
+    <lastmod>2015-09-26</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://ikuji-aboutny.com/2016/02/08.html</loc>
     <lastmod>2015-09-26</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
