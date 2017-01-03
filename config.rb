@@ -104,9 +104,9 @@ activate :livereload
 ###
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
 set :site_url, 'http://ikuji-aboutny.com'
-set :site_author, 'about NY'
-set :site_title, '20代で半年育休を取得した社内SEブログ'
-set :site_description, '東京都品川区在住の社内システムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。'
+set :site_author, 'aboutny'
+set :site_title, '28歳男子育休の半年間'
+set :site_description, '東京都品川区在住のシステムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。'
 set :profile_img_url, '/images/user.jpg'
 # Select the theme from bootswatch.com.
 # If false, you can get plain bootstrap style.
