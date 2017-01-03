@@ -103,7 +103,7 @@ activate :livereload
 # Site Settings
 ###
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
-set :site_url, 'http://ikuji-aboutny.com'
+set :site_url, 'http://www.aboutny.github.io/ikuji-blog'
 set :site_author, 'aboutny'
 set :site_title, '28歳男子育休の半年間'
 set :site_description, '東京都品川区在住のシステムエンジニア。2015年5月にパパになり、10月から半年間の育児休業を取得。。育児について感じたことを綴ります。'
