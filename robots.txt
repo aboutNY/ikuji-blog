@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://www.aboutny.github.io/ikuji-blog/sitemap.xml
