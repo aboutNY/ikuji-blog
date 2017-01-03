@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://ikuji-aboutny.com/sitemap.xml
+Sitemap: http://www.aboutny.github.io/ikuji-blog/sitemap.xml
